@@ -27,9 +27,9 @@ p{
     box: 10px none;
 
 }
-section{
+.box-sec{
     display: flex;
-    padding-bottom: 10%;
+    padding-bottom: 40px;
 }
 .h-width{
     width: 30%;
@@ -44,4 +44,37 @@ section{
     background-image: url(fra.jpg);
     -webkit-background-size: cover;
     padding-left: 10px;
+}
+.align{
+    text-align: center;
+}
+#bor{
+    width:50%;
+    border-left: 2%;
+    padding-right: 0%;
+    padding-left: 0%;
+    margin-right: 2%%;
+    margin-left: 2%;
+	border-radius: 5px;
+	box-shadow: 10px 15px 50px gray;
+}
+#bord{
+    width:50%;
+    border-left: 2%;
+    padding-right: 0%;
+    padding-left: 0%;
+    margin-right: 2%%;
+    margin-left: 2%;
+	border-radius: 5px;
+	box-shadow: 10px 15px 50px gray;
+}
+#border{
+    width:50%;
+    border-left: 2%;
+    padding-right: 0%;
+    padding-left: 0%;
+    margin-right: 2%%;
+    margin-left: 2%;
+	border-radius: 5px;
+	box-shadow: 10px 15px 50px gray;
 }
